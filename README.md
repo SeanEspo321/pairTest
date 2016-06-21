@@ -1,2 +1,3 @@
 # pairTest
 Working through a git
+This is Sean editing...
